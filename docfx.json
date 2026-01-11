@@ -21,9 +21,11 @@
     "output": "_site",
     "template": [
       "default",
+      "default(zh-cn)",
       "modern"
     ],
     "globalMetadata": {
+      "_lang":"zh-CN",
       "_appName": "mysite",
       "_appTitle": "mysite",
       "_enableSearch": true,
