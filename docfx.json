@@ -26,8 +26,11 @@
     ],
     "globalMetadata": {
       "_lang":"zh-CN",
-      "_appName": "mysite",
-      "_appTitle": "mysite",
+      "_appName": "迪拉熊Bot",
+      "_appTitle": "迪拉熊Bot",
+      "_appFooter": "<span>迪拉熊Bot团队呈现 <a href=\"https://dotnet.github.io/docfx\">docfx</a>提供支持 本站内容采用<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a>授权 本项目与华立科技及世嘉飞舞无关</span>",
+      "_appLogoPath": "images/logo.png",
+      "_appFaviconPath": "images/logo.png",
       "_enableSearch": true,
       "pdf": false
     }

@@ -1,0 +1,29 @@
+- name: 通用功能
+- name: Bot 信息
+  href: common/info.md
+- name: 用户设置
+  href: common/setting.md
+
+- name: 特色功能
+- name: RP 互动
+  href: interaction/conversation.md
+- name: 图库
+  href: interaction/gallery.md
+- name: 星星（货币）相关
+  href: interaction/star.md
+
+- name: 游戏相关
+- name: 机厅排卡/人数查询
+  href: maimai/arcade.md
+- name: 舞萌服务器
+  href: maimai/srvup.md
+
+- name: 查分器相关
+- name: 评分对象曲目（B50）
+  href: prober/bests.md
+- name: 成绩列表
+  href: prober/list.md
+- name: 乐曲信息
+  href: prober/music.md
+- name: 开字母
+  href: prober/wordle.md

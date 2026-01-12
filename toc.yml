@@ -1,4 +1,14 @@
-- name: Introduction
-  href: introduction.md
-- name: Getting Started
-  href: getting-started.md
+- name: 用户指南
+  href: user-guide/
+  
+- name: 指令大全
+  href: commands/
+
+- name: 更新日志
+  href: changelog/
+
+- name: 贡献指南
+  href: collaborator-guide/
+
+- name: 贡献名单
+  href: credits.md
