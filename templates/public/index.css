@@ -1,0 +1,249 @@
+:root {
+  --home-hero-name-color: transparent;
+  --home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    #213096 30%,
+    #00bece
+  );
+  --home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #213096 50%,
+    #00bece 50%
+  );
+  --home-hero-image-filter: blur(40px);
+}
+
+.landing-container {
+  max-width: 1152px;
+  margin: 0 auto;
+}
+
+/* Hero Section */
+.hero-section {
+  padding: 48px 24px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero-image {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+  order: -1;
+}
+
+@media (min-width: 960px) {
+  .hero-section {
+    padding: 64px 0;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+  }
+  .hero-content {
+    max-width: 592px;
+  }
+  .hero-image {
+    flex-grow: 1;
+    margin-top: 0;
+    margin-bottom: 0;
+    order: 0;
+  }
+}
+
+.hero-title {
+  font-size: 32px;
+  line-height: 1.25;
+  font-weight: 900;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.hero-title .clip {
+  background: var(--home-hero-name-background);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: var(--home-hero-name-color);
+}
+
+@media (min-width: 640px) {
+  .hero-title {
+    font-size: 48px;
+  }
+}
+@media (min-width: 960px) {
+  .hero-title {
+    font-size: 56px;
+  }
+}
+
+.hero-subtitle {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #3c3c3c;
+  margin: 24px 0;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+
+html[data-bs-theme="dark"] .hero-subtitle {
+  color: #ebebeb;
+}
+
+.hero-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media (min-width: 960px) {
+  .hero-actions {
+    justify-content: flex-start;
+  }
+}
+
+.action-button {
+  display: inline-block;
+  border-radius: 20px;
+  padding: 0 20px;
+  line-height: 38px;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: background-color 0.1s;
+  border: 1px solid transparent;
+}
+
+.primary-button {
+  background-color: #00bece;
+  color: white !important;
+  border-color: #00bece;
+}
+.primary-button:hover {
+  background-color: #009caa;
+  border-color: #009caa;
+}
+
+.secondary-button {
+  background-color: #f1f5f9;
+  color: #475569 !important;
+}
+.secondary-button:hover {
+  background-color: #e2e8f0;
+}
+
+html[data-bs-theme="dark"] .secondary-button {
+  background-color: #1e293b;
+  color: #e2e8f0 !important;
+}
+html[data-bs-theme="dark"] .secondary-button:hover {
+  background-color: #334155;
+}
+
+.image-icon {
+  position: relative;
+  width: 192px;
+  height: 192px;
+  padding: 18px;
+}
+
+@media (min-width: 640px) {
+  .image-icon {
+    width: 256px;
+    height: 256px;
+  }
+}
+@media (min-width: 960px) {
+  .image-icon {
+    width: 320px;
+    height: 320px;
+  }
+}
+
+/* Image Glow Effect */
+.image-bg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border-radius: 50%;
+  width: 192px;
+  height: 192px;
+  background-image: var(--home-hero-image-background-image);
+  filter: var(--home-hero-image-filter);
+  transform: translate(-50%, -50%);
+  opacity: 0.8;
+  z-index: -1;
+}
+
+@media (min-width: 640px) {
+  .image-bg {
+    width: 256px;
+    height: 256px;
+  }
+}
+@media (min-width: 960px) {
+  .image-bg {
+    width: 320px;
+    height: 320px;
+  }
+}
+
+html[data-bs-theme="dark"] .features-section {
+  border-top-color: #2e2e32;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(224px, 1fr));
+  gap: 24px;
+}
+
+.feature-card {
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  padding: 24px;
+  height: 100%;
+  transition: background-color 0.2s;
+}
+
+html[data-bs-theme="dark"] .feature-card {
+  background-color: #202127;
+}
+
+.feature-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 6px;
+  background-color: #e5e7eb;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+html[data-bs-theme="dark"] .feature-icon {
+  background-color: #65758529;
+}
+
+.feature-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  margin-top: 0;
+  border: none;
+}
+
+.feature-details {
+  font-size: 14px;
+  color: #6b7280;
+  line-height: 1.5;
+  margin: 0;
+}
+
+html[data-bs-theme="dark"] .feature-details {
+  color: #a1a1aa;
+}
