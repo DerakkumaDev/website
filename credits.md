@@ -23,6 +23,7 @@
 
 ## 源码仓库
 
-https://codeberg.org/Derakkuma
+[Codeberg](https://codeberg.org/Derakkuma)
 
-遵循 AGPL 3.0 协议开放源码
+> [!TIP]
+> 遵循 AGPL 3.0 协议开放源码
