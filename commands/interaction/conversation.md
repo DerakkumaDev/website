@@ -140,7 +140,7 @@ dlxcum
 将文本转换为迪拉熊语音
 
 ```sh
-(迪拉熊|dlx)(说：?|say|speak|t(2|t)(a|s)) <content:string>
+(迪拉熊|dlx)(说：|说|say|speak|tts|t2s|tta|t2a) <content:string>
 ```
 
 #### 示例
