@@ -1,3 +1,17 @@
 - name: 快速开始
 - name: 基础
   href: basic.md
+- name: 问题反馈
+  href: issue.md
+
+- name: 功能介绍
+- name: 智能对话
+  href: llm.md
+- name: 排卡
+  href: queue.md
+- name: 开字母
+  href: wordle.md
+
+- name: 额外信息
+- name: 收藏品列表
+  href: collections.md
