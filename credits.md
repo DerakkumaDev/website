@@ -35,5 +35,5 @@
 
 [Codeberg](https://codeberg.org/Derakkuma)
 
-> [!TIP]
+> [!NOTE]
 > 本项目源码采用[GNU AFFERO 通用公共许可证 版本 3](https://gnu.ac.cn/licenses/agpl-3.0.html)授权
