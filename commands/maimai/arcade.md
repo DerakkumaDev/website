@@ -202,13 +202,13 @@
 # [官 B 版](#tab/qq)
 
 ```sh
-@迪拉熊 /管理机厅 别名 <name:string> 添加 <alias:string>
+@迪拉熊 /(机厅别名|管理别名) <name:string> 添加 <alias:string>
 ```
 
 #### 示例
 
 ```sh
-@迪拉熊 /管理机厅 别名 xxx机厅（xxx店） 添加 xxx
+@迪拉熊 /机厅别名 xxx机厅（xxx店） 添加 xxx
 ```
 
 # [普通版](#tab/ob11)
@@ -266,13 +266,13 @@
 # [官 B 版](#tab/qq)
 
 ```sh
-@迪拉熊 /管理机厅 别名 <name:string> 删除 <alias:string>
+@迪拉熊 /(机厅别名|管理别名) <name:string> 删除 <alias:string>
 ```
 
 #### 示例
 
 ```sh
-@迪拉熊 /管理机厅 别名 xxx机厅（xxx店） 删除 xxx
+@迪拉熊 /机厅别名 xxx机厅（xxx店） 删除 xxx
 ```
 
 # [普通版](#tab/ob11)
