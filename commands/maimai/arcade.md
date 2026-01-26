@@ -330,7 +330,7 @@
 # [官 B 版](#tab/qq)
 
 ```sh
-@迪拉熊 /查询卡数 [word:string]
+@迪拉熊 /查询卡数 [word:string] | @迪拉熊 (机厅|看看|jt|[word:string])?有?(多少人|多少卡|几人|几卡|几|jr|j)
 ```
 
 #### 示例
@@ -378,7 +378,7 @@
 # [官 B 版](#tab/qq)
 
 ```sh
-@迪拉熊 /修改卡数 <word:string> (增加|减少|设为|add|reduce|set) <num:number>
+@迪拉熊 /修改卡数 <word:string> (增加|减少|设为|add|reduce|set|加|减|为|＋|－|＝|+|-|=) <num:number> | @迪拉熊 <word:string> (加|减|为|＋|－|＝|+|-|=)? <num:number> (人|卡)?
 ```
 
 #### 示例

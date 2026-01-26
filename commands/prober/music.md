@@ -7,7 +7,7 @@
 # [官 B 版](#tab/qq)
 
 ```sh
-@迪拉熊 /谱面信息 (dx|标准|宴|1p|2p)? <word:string>
+@迪拉熊 /谱面信息 (dx|sd|标准|标|宴|1p|2p)? <word:string> | @迪拉熊 (dx|sd|标准|标|宴)? <word:string> (是什么歌？|是什么歌)
 ```
 
 #### 示例
@@ -19,7 +19,7 @@
 # [普通版](#tab/ob11)
 
 ```sh
-(chart|id) (dx|sd|标准|标|左|右|宴|1p|2p)? <word:string>|(dx|sd|标准|标|宴)? <word:string> (是什么歌？|是什么歌)
+(chart|id) (dx|sd|标准|标|左|右|宴|1p|2p)? <word:string> | (dx|sd|标准|标|宴)? <word:string> (是什么歌？|是什么歌)
 ```
 
 #### 示例
@@ -239,7 +239,7 @@ dlxreq 迪拉熊
 # [官 B 版](#tab/qq)
 
 ```sh
-@迪拉熊 /(乐曲别名|搜索别名) <word:string>
+@迪拉熊 /(乐曲别名|搜索别名) <word:string> | @迪拉熊 <word:string> (有什么|有哪些)(别名|别称)？?
 ```
 
 #### 示例
@@ -251,7 +251,7 @@ dlxreq 迪拉熊
 # [普通版](#tab/ob11)
 
 ```sh
-(alias|查看别名|查看别称|查别名|查别称) <word:string>|<word:string> (有什么|有哪些)(别名|别称)？?
+(alias|查看别名|查看别称|查别名|查别称) <word:string> | <word:string> (有什么|有哪些)(别名|别称)？?
 ```
 
 #### 示例
