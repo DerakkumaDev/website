@@ -234,6 +234,9 @@ sicon 458001
 
 ### 落雪
 
+> [!TIP]
+> 请前往[账号详情](https://maimai.lxns.net/user/profile?tab=thirdparty)页获取个人 API 密钥
+
 # [官 B 版](#tab/qq)
 
 ```sh
