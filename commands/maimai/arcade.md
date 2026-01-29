@@ -7,7 +7,7 @@
 
 注册并为当前聊天绑定机厅
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /管理机厅 注册 <name:string>
@@ -55,7 +55,7 @@
 
 为当前聊天绑定机厅
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /管理机厅 绑定 <name:string>
@@ -103,7 +103,7 @@
 
 为当前聊天解绑机厅
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /管理机厅 解绑 <word:string>
@@ -151,7 +151,7 @@
 
 搜索所有相关机厅
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /管理机厅 搜索 <word:string>
@@ -199,7 +199,7 @@
 
 为机厅添加别名
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /(机厅别名|管理别名) <name:string> 添加 <alias:string>
@@ -263,7 +263,7 @@
 
 为机厅删除别名
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /(机厅别名|管理别名) <name:string> 删除 <alias:string>
@@ -327,7 +327,7 @@
 
 查询当前聊天绑定的机厅卡数
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /查询卡数 [word:string] | @迪拉熊 (机厅|看看|jt|[word:string])?有?(多少人|多少卡|几人|几卡|几|jr|j)
@@ -375,7 +375,7 @@
 
 更新指定机厅卡数
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /修改卡数 <word:string> (增加|减少|设为|add|reduce|set|加|减|为|＋|－|＝|+|-|=) <num:number> | @迪拉熊 <word:string> (加|减|为|＋|－|＝|+|-|=)? <num:number> (人|卡)?

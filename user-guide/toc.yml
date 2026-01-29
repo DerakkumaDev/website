@@ -5,7 +5,7 @@
   href: issue.md
 
 - name: 功能介绍
-- name: 智能对话
+- name: RP对话
   href: llm.md
 - name: 排卡
   href: queue.md

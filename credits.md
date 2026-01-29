@@ -3,18 +3,18 @@
 ## 美术设计
 
 - [开脆兔](https://space.bilibili.com/13474674)
-  - 参与 UI 绘制与功能设计
+  - 参与UI绘制与功能设计
 
 ## 主要开发
 
 - [方长](https://space.bilibili.com/86127469)
-  - 参与开发核心功能及草案
+  - 参与核心功能及草案开发
 - [予纾](https://codeberg.org/Yushu)
 
 ### 协作开发
 
 - [Ekzykes](https://space.bilibili.com/180325253)
-  - 参与开发开字母/猜歌功能
+  - 参与开字母/猜歌功能开发
 
 ## 特别鸣谢
 

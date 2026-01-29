@@ -51,7 +51,7 @@ icon
 
 ### 姓名框
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /设置收藏品 姓名框 <id:number>
@@ -79,7 +79,7 @@ splate 458001
 
 ### 背景
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /设置收藏品 背景 <id:number>
@@ -107,7 +107,7 @@ sframe 558001
 
 ### 头像
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /设置收藏品 头像 <id:number>
@@ -157,7 +157,7 @@ sicon 458001
 
 ### 定数分析
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /设置功能 定数分析 (启用|禁用)
@@ -202,7 +202,7 @@ sicon 458001
 
 设置数据来源查分器
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /(设置数据源|换源) (落雪|水鱼)
@@ -235,9 +235,9 @@ sicon 458001
 ### 落雪
 
 > [!TIP]
-> 请前往[账号详情](https://maimai.lxns.net/user/profile?tab=thirdparty)页获取个人 API 密钥
+> 请前往[账号详情](https://maimai.lxns.net/user/profile?tab=thirdparty)页获取个人API密钥
 
-# [官 B 版](#tab/qq)
+# [官B版](#tab/qq)
 
 ```sh
 @迪拉熊 /绑定 落雪 <token:string>
@@ -267,7 +267,7 @@ sicon 458001
 
 > `token`
 >
-> 落雪个人 API 密钥
+> 落雪个人API密钥
 >
 > ##### 类型
 >
@@ -284,7 +284,7 @@ sicon 458001
 ### QQ
 
 > [!NOTE]
-> 该指令仅官 B 版可用
+> 该指令仅官B版可用
 
 ```sh
 @迪拉熊 /绑定 qq <qq:number>
@@ -300,7 +300,7 @@ sicon 458001
 
 > `qq`
 >
-> QQ 号
+> QQ号
 >
 > ##### 类型
 >

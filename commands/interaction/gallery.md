@@ -22,7 +22,7 @@
 dlx
 ```
 
-# [NSFW 图片](#tab/nsfw)
+# [NSFW图片](#tab/nsfw)
 
 > [!NOTE]
 > 该指令仅色色版可用

@@ -1,11 +1,11 @@
 - name: 通用功能
-- name: Bot 信息
+- name: Bot信息
   href: common/info.md
 - name: 用户设置
   href: common/setting.md
 
 - name: 特色功能
-- name: RP 互动
+- name: RP互动
   href: interaction/conversation.md
 - name: 图库
   href: interaction/gallery.md
