@@ -147,6 +147,9 @@ dlxcum
 
 清除当前Roleplay对话中的所有上下文
 
+> [!TIP]
+> 该功能每次消耗1000星星
+
 > [!WARNING]
 > 记忆一旦移除不可恢复
 
@@ -171,6 +174,9 @@ dlxcum
 ## 文字转语音
 
 将文本转换为迪拉熊语音
+
+> [!TIP]
+> 该功能会按用量消耗星星余额
 
 ```sh
 (迪拉熊|dlx)(说：|说|say|speak|tts|t2s|tta|t2a) <content:string>
