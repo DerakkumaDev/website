@@ -19,13 +19,13 @@
 ## 特别鸣谢
 
 - [Lxns Network](https://lxns.net/)
-  - 提供舞萌数据查询与别名信息查询服务
+  - 提供舞萌数据查询与别名信息检索服务
 - [Diving-Fish](https://www.diving-fish.com/)
   - 提供数据查询服务
-- [Xray Bot](https://space.bilibili.com/180325253)
+- [DXRating](https://dxrating.net/)
   - 提供别名信息查询服务
 - [柚子](https://space.bilibili.com/3298686)
-  - 提供别名信息查询服务
+  - 提供别名信息检索服务
 - [啊舞萌吃](https://awmc.cc/)
   - 提供舞萌服务器状态查询服务
 - [源域](https://codeberg.org/SourceZoneDev)
