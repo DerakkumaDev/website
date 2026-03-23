@@ -1,5 +1,11 @@
-- name: 普通版Bot
+- name: Bot前端
+- name: 普通版
+  href: ob11.md
+- name: 官B版
+  href: qq.md
 
-- name: 官B版Bot
-
-- name: 绘图后端
+- name: 后端服务
+- name: 绘图后端（酸橙熊熊）
+  href: limekuma.md
+- name: MCP服务（柠檬熊熊）
+  href: lemonkuma.md
