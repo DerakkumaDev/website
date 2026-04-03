@@ -22,11 +22,13 @@
   - 提供舞萌数据查询与别名信息检索服务
 - [Diving-Fish](https://www.diving-fish.com/)
   - 提供数据查询服务
-- [DXRating](https://dxrating.net/)
-  - 提供别名信息查询服务
 - [柚子](https://space.bilibili.com/3298686)
   - 提供别名信息检索服务
-- [啊舞萌吃](https://awmc.cc/)
+- [DXRating](https://dxrating.net/)
+  - 提供别名信息查询服务
+- [莉丝塔](https://space.bilibili.com/54902685)
+  - 提供别名信息检索服务
+- [AWMC](https://awmc.cc/)
   - 提供舞萌服务器状态查询服务
 - [源域](https://codeberg.org/SourceZoneDev)
   - 提供程序托管及运维服务
